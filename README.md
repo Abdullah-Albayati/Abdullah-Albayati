@@ -56,13 +56,9 @@
 
 ---
 
-### <span style="color:#9D4EDD">🚀 Projects</span>
+![Projects](https://img.shields.io/badge/🚀_Projects-9D4EDD?style=for-the-badge&labelColor=5A189A)
 
 - 🧭 **[Hisba](https://github.com/Abdullah-Albayati/hisba)** — Built entirely with **TypeScript**, focusing on a minimal and scalable backend architecture.
-
-<!-- Add more projects here:
-- 🔗 **[ProjectName](https://github.com/Abdullah-Albayati/ProjectName)** — Short description highlighting what it does and your tech stack.
--->
 
 ---
 
