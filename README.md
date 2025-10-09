@@ -21,7 +21,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9D4EDD&height=70&section=header&text=About%20Me&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9D4EDD&height=50&section=header&text=About%20Me&fontSize=28&fontColor=ffffff" />
 </h2>
 
 - Backend-focused developer who values **clarity, structure, and maintainability**.  
@@ -32,7 +32,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=70&section=header&text=Tech%20Stack&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=50&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff" />
 </h2>
 
 <div align="center">
@@ -50,7 +50,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=5A189A&height=70&section=header&text=GitHub%20Stats&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=5A189A&height=50&section=header&text=GitHub%20Stats&fontSize=28&fontColor=ffffff" />
 </h2>
 
 <div align="center">
@@ -63,7 +63,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8E4AFF&height=70&section=header&text=🚀%20Projects&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8E4AFF&height=50&section=header&text=🚀%20Projects&fontSize=28&fontColor=ffffff" />
 </h2>
 
 - 🧭 **[Hisba](https://github.com/Abdullah-Albayati/hisba)** — Built entirely with **TypeScript**, focusing on a minimal and scalable backend architecture.
