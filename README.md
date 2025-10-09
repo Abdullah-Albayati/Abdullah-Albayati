@@ -56,15 +56,20 @@
 
 ---
 
-### <span style="color:#9D4EDD">🚀 Projects</span>
+### <span style="color:#9D4EDD">Projects</span>
 
-- 🧭 **[Hisba](https://github.com/Abdullah-Albayati/hisba)** — Built entirely with **TypeScript**, focusing on a minimal and scalable backend architecture.
+<div align="center">
 
-<!-- Add more projects here:
-- 🔗 **[ProjectName](https://github.com/Abdullah-Albayati/ProjectName)** — Short description highlighting what it does and your tech stack.
--->
+<a href="https://github.com/Abdullah-Albayati/hisba">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-Albayati&repo=hisba&theme=midnight-purple&hide_border=true" />
+</a>
 
----
+<a href="https://github.com/Abdullah-Albayati/another-cool-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-Albayati&repo=another-cool-project&theme=midnight-purple&hide_border=true" />
+</a>
+
+</div>
+
 
 <h3 align="center">
   "Build to last, not to fade."
