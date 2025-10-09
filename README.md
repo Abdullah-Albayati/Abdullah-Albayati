@@ -63,7 +63,7 @@
 <table>
   <tr>
     <td align="center" width="45%">
-      <a href="https://github.com/Abdullah-Albayati/hisba">
+      <a href="https://github.com/makers-hackathon/hisba.git">
         <img src="https://img.shields.io/badge/Hisba-Backend%20Architecture%20%7C%20TypeScript-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
       <p><i>Minimal and scalable backend built with TypeScript and Appwrite.</i></p>
