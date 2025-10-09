@@ -37,8 +37,8 @@ A fintech platform built with .NET Minimal API for financial tracking and report
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Albayati&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulla-ali-waleed&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=abdulla-ali-waleed&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Albayati&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Abdullah-Albayati&theme=radical)
 
 ---
 
