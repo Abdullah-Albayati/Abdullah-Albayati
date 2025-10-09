@@ -10,13 +10,13 @@ I love crafting clean backend architectures and building tools that make develop
 ## 💻 Tech Stack
 
 **Backend:**  
-.NET • C# • Node.js • Python • EF Core  
+.NET • C# • Node.js • Python • EF Core • Typescript • Dart
 
 **Frontend:**  
-Flutter • Dart • TypeScript • JavaScript  
+Flutter Framework
 
 **Other Tools & Platforms:**  
-Docker • Appwrite • PostgreSQL • Git • Linux  
+Docker • Git • PostgreSQL • MongoDB • 
 
 ---
 
@@ -36,7 +36,7 @@ A fintech platform built with .NET Minimal API for financial tracking and report
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulla-ali-waleed&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Albayati&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulla-ali-waleed&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=abdulla-ali-waleed&theme=radical)
 
