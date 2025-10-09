@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Abdullah-Albayati/hisba">
+<a href="https://github.com/makers-hackathon/hisba.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-Albayati&repo=hisba&theme=midnight-purple&hide_border=true" />
 </a>
 
