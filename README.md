@@ -32,14 +32,14 @@
 
 <div align="center">
 
-![.NET](https://img.shields.io/badge/.NET-5A189A?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF CORE](https://img.shields.io/badge/EF%20Core-6B21A8?style=for-the-badge&logo=dot-net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-7B2CBF?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-8E4AFF?style=for-the-badge&logo=unity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-9D4EDD?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-AA60F5?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-B975FF?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-C88BFF?style=for-the-badge&logo=flutter&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-4C138A?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF CORE](https://img.shields.io/badge/EF%20Core-5521A5?style=for-the-badge&logo=dot-net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-5E2BBF?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-6633C7?style=for-the-badge&logo=unity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-6F3DD2?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-7847DC?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-824FE5?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-8C58ED?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
