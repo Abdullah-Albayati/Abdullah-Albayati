@@ -24,7 +24,7 @@
 - Backend-focused developer who values **clarity, structure, and maintainability**.  
 - Primarily working with **.NET**, **TypeScript**, and **Node.js**, with side projects in **Python**, **Flutter**, and **Unity**.  
 - Interested in **developer ecosystems**, **API design**, and **problem-solving** for the dev community.  
-- Caffiene ***`extremest`***.
+- Caffiene ***EXTREMEST***.
 
 ---
 
