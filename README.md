@@ -10,10 +10,10 @@
 <img align="right" src="https://avatars.githubusercontent.com/Abdullah-Albayati" style="border-radius: 50%" width="190">
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-al-bayati-65533a28b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
+  <a href="https://www.instagram.com/8y.yi" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
