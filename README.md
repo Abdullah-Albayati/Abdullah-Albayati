@@ -9,7 +9,7 @@
 
 <img align="right" src="https://avatars.githubusercontent.com/Abdullah-Albayati" style="border-radius: 50%" width="190">
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/abdullah-al-bayati-65533a28b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -20,18 +20,20 @@
 
 ---
 
-<h2 align="center">🪄 About Me</h2>
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9D4EDD&height=70&section=header&text=About%20Me&fontSize=35&fontColor=ffffff" />
+</h2>
 
-<p align="center">
-Backend-focused developer who values <b>clarity, structure, and maintainability</b>.<br/>
-Primarily working with <b>.NET</b>, <b>TypeScript</b>, and <b>Node.js</b>, with side projects in <b>Python</b>, <b>Flutter</b>, and <b>Unity</b>.<br/>
-Interested in <b>developer ecosystems</b>, <b>API design</b>, and <b>problem-solving</b> for the dev community.<br/>
-☕ Coffee keeps me sane; clean architecture keeps me humble.
-</p>
+- Backend-focused developer who values **clarity, structure, and maintainability**.  
+- Primarily working with **.NET**, **TypeScript**, and **Node.js**, with side projects in **Python**, **Flutter**, and **Unity**.  
+- Interested in **developer ecosystems**, **API design**, and **problem-solving** for the dev community.  
+- Coffee keeps me sane; clean architecture keeps me humble.
 
 ---
 
-<h2 align="center">⚙️ Tech Stack</h2>
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7B2CBF&height=70&section=header&text=Tech%20Stack&fontSize=35&fontColor=ffffff" />
+</h2>
 
 <div align="center">
 
@@ -47,7 +49,9 @@ Interested in <b>developer ecosystems</b>, <b>API design</b>, and <b>problem-sol
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=5A189A&height=70&section=header&text=GitHub%20Stats&fontSize=35&fontColor=ffffff" />
+</h2>
 
 <div align="center">
 
@@ -58,22 +62,20 @@ Interested in <b>developer ecosystems</b>, <b>API design</b>, and <b>problem-sol
 
 ---
 
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8E4AFF&height=70&section=header&text=🚀%20Projects&fontSize=35&fontColor=ffffff" />
+</h2>
 
-<p align="center">
-🧭 <b><a href="https://github.com/Abdullah-Albayati/hisba">Hisba</a></b> — Built entirely with <b>TypeScript</b>, focusing on a minimal and scalable backend architecture.
-</p>
+- 🧭 **[Hisba](https://github.com/Abdullah-Albayati/hisba)** — Built entirely with **TypeScript**, focusing on a minimal and scalable backend architecture.
 
 <!-- Add more projects here:
-<p align="center">
-🔗 <b><a href="https://github.com/Abdullah-Albayati/ProjectName">ProjectName</a></b> — Short description highlighting what it does and your tech stack.
-</p>
+- 🔗 **[ProjectName](https://github.com/Abdullah-Albayati/ProjectName)** — Short description highlighting what it does and your tech stack.
 -->
 
 ---
 
 <h3 align="center">
-  <i>"Build to last, not to fade."</i>
+  "Build to last, not to fade."
 </h3>
 
 <div align="center">
