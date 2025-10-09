@@ -9,7 +9,7 @@
 
 <img align="right" src="https://avatars.githubusercontent.com/Abdullah-Albayati" style="border-radius: 50%" width="190">
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/abdullah-al-bayati-65533a28b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -20,16 +20,18 @@
 
 ---
 
-### About Me
+<h2 align="center">🪄 About Me</h2>
 
-- Backend-focused developer who values **clarity, structure, and maintainability**.  
-- Primarily working with **.NET**, **TypeScript**, and **Node.js**, with side projects in **Python**, **Flutter**, and **Unity**.  
-- Interested in **developer ecosystems**, **API design**, and **problem-solving** for the dev community.  
-- Coffee keeps me sane; clean architecture keeps me humble.
+<p align="center">
+Backend-focused developer who values <b>clarity, structure, and maintainability</b>.<br/>
+Primarily working with <b>.NET</b>, <b>TypeScript</b>, and <b>Node.js</b>, with side projects in <b>Python</b>, <b>Flutter</b>, and <b>Unity</b>.<br/>
+Interested in <b>developer ecosystems</b>, <b>API design</b>, and <b>problem-solving</b> for the dev community.<br/>
+☕ Coffee keeps me sane; clean architecture keeps me humble.
+</p>
 
 ---
 
-### Tech Stack
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <div align="center">
 
@@ -45,7 +47,7 @@
 
 ---
 
-### GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -56,14 +58,22 @@
 
 ---
 
-![Projects](https://img.shields.io/badge/🚀_Projects-9D4EDD?style=for-the-badge&labelColor=5A189A)
+<h2 align="center">🚀 Projects</h2>
 
-- 🧭 **[Hisba](https://github.com/Abdullah-Albayati/hisba)** — Built entirely with **TypeScript**, focusing on a minimal and scalable backend architecture.
+<p align="center">
+🧭 <b><a href="https://github.com/Abdullah-Albayati/hisba">Hisba</a></b> — Built entirely with <b>TypeScript</b>, focusing on a minimal and scalable backend architecture.
+</p>
+
+<!-- Add more projects here:
+<p align="center">
+🔗 <b><a href="https://github.com/Abdullah-Albayati/ProjectName">ProjectName</a></b> — Short description highlighting what it does and your tech stack.
+</p>
+-->
 
 ---
 
 <h3 align="center">
-  "Build to last, not to fade."
+  <i>"Build to last, not to fade."</i>
 </h3>
 
 <div align="center">
