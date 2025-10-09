@@ -6,7 +6,7 @@
   <i>Occasionally builds things in Unity — because good architecture applies everywhere.</i>
 </p>
 
-<img align="right" src="https://avatars.githubusercontent.com/Abdullah-Albayati" width="190" height="190" style="border-radius:50%; clip-path:circle();">
+<img align="right" src="https://avatars.githubusercontent.com/Abdullah-Albayati" style="border-radius: 50%" width="190">
 
 <p>
   <a href="https://www.linkedin.com/in/abdullah-al-bayati-65533a28b/" target="_blank">
