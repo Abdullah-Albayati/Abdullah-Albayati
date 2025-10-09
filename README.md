@@ -8,12 +8,12 @@
 
 <img align="right" src="https://avatars.githubusercontent.com/Abdullah-Albayati" style="border-radius: 50%" width="190">
 
-<p>
-  <a href="https://www.linkedin.com/in/abdullah-al-bayati-65533a28b/" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:middle;"/>
+<p style="line-height: 0; margin: 0; padding: 0;">
+  <a href="https://www.linkedin.com/in/abdullah-al-bayati-65533a28b/" target="_blank" style="text-decoration:none; display:inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white" style="display:block;"/>
   </a>
-  <a href="https://www.instagram.com/8y.yi" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Instagram-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align:middle;"/>
+  <a href="https://www.instagram.com/8y.yi" target="_blank" style="text-decoration:none; display:inline-block;">
+    <img src="https://img.shields.io/badge/Instagram-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white" style="display:block;"/>
   </a>
 </p>
 
