@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="1147" height="835" alt="{2FBF3E6A-6F09-460E-90D6-39D071902E35}" src="https://github.com/user-attachments/assets/7e90010a-5731-43dc-be3c-2161d5eb5cfd" /><h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A189A,100:9D4EDD&height=220&text=Abdullah%20Al-Bayati&fontSize=55&fontAlignY=40&desc=Backend%20Developer%20%7C%20Coffee%20Maniac%20☕&descAlignY=65&descSize=22&animation=fadeIn" />
 </h1>
 
@@ -34,6 +34,7 @@
 <div align="center">
 
 ![.NET](https://img.shields.io/badge/.NET-5A189A?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF CORE](https://img.shield.io/badge/](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-7B2CBF?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-6A0DAD?style=for-the-badge&logo=unity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-8E4AFF?style=for-the-badge&logo=typescript&logoColor=white)
