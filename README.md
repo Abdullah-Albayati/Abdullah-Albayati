@@ -65,7 +65,7 @@
 ---
 
 <h3 align="center">
-  "Build systems that outlast trends — and developers who can outgrow them."
+  "Build to last, not to fade."
 </h3>
 
 <div align="center">
