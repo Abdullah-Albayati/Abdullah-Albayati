@@ -56,10 +56,13 @@
 
 ---
 
-### Projects
--[Hisba](https://github.com/Abdullah-Albayati/hisba): Minimal .NET API built with Appwrite and EF Core
-- [DevLinkIQ](https://github.com/Abdullah-Albayati/devlinkiq): A developer network for the Iraqi tech community
+### <span style="color:#9D4EDD">🚀 Projects</span>
 
+- 🧭 **[Hisba](https://github.com/Abdullah-Albayati/hisba)** — Built entirely with **TypeScript**, focusing on a minimal and scalable backend architecture.
+
+<!-- Add more projects here:
+- 🔗 **[ProjectName](https://github.com/Abdullah-Albayati/ProjectName)** — Short description highlighting what it does and your tech stack.
+-->
 
 ---
 
