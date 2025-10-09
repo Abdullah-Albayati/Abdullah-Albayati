@@ -56,11 +56,10 @@
 
 ---
 
-<!-- Add your projects here when ready:
 ### Projects
-- [Hisba](https://github.com/Abdullah-Albayati/hisba): Minimal .NET API built with Appwrite and EF Core
+-[Hisba](https://github.com/Abdullah-Albayati/hisba): Minimal .NET API built with Appwrite and EF Core
 - [DevLinkIQ](https://github.com/Abdullah-Albayati/devlinkiq): A developer network for the Iraqi tech community
--->
+
 
 ---
 
