@@ -4,10 +4,10 @@
 
 <p align="center">
   <i>Backend Developer specialized in .NET with frontend experience in Flutter/Dart.</i><br/>
-  <i>Focused on clean architecture, developer tooling, and scalable systems.</i>
+  <i>Occasionally builds things in Unity — because good architecture applies everywhere.</i>
 </p>
 
-<img align="right" src="https://avatars.githubusercontent.com/Abdullah-Albayati" style="border-radius: 50%" width="190">
+<img align="right" src="https://avatars.githubusercontent.com/Abdullah-Al-Bayati" style="border-radius: 50%" width="190">
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
@@ -23,9 +23,9 @@
 ### About Me
 
 - Backend-focused developer who values **clarity, structure, and maintainability**.  
-- Primarily working with **.NET**, **TypeScript**, and **Node.js**, with side projects in **Python** and **Flutter**.  
+- Primarily working with **.NET**, **TypeScript**, and **Node.js**, with side projects in **Python**, **Flutter**, and **Unity**.  
 - Interested in **developer ecosystems**, **API design**, and **problem-solving** for the dev community.  
-- Coffee keeps me sane; good architecture keeps me humble.
+- Coffee keeps me sane; clean architecture keeps me humble.
 
 ---
 
@@ -35,6 +35,7 @@
 
 ![.NET](https://img.shields.io/badge/.NET-5A189A?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-7B2CBF?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-6A0DAD?style=for-the-badge&logo=unity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-8E4AFF?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6A0DAD?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white)
@@ -64,7 +65,7 @@
 ---
 
 <h3 align="center">
-  "Craft code as if someone else will maintain it — because someone always will."
+  "Build systems that outlast trends — and developers who can outgrow them."
 </h3>
 
 <div align="center">
