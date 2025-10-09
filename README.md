@@ -33,13 +33,13 @@
 <div align="center">
 
 ![.NET](https://img.shields.io/badge/.NET-5A189A?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF CORE](https://img.shields.io/badge/EF%20Core-7B2CBF?style=for-the-badge&logo=dot-net&logoColor=white)
+![EF CORE](https://img.shields.io/badge/EF%20Core-6B21A8?style=for-the-badge&logo=dot-net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-7B2CBF?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-6A0DAD?style=for-the-badge&logo=unity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-8E4AFF?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6A0DAD?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-9D4EDD?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-7B2CBF?style=for-the-badge&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-8E4AFF?style=for-the-badge&logo=unity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-9D4EDD?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-AA60F5?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B975FF?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-C88BFF?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
