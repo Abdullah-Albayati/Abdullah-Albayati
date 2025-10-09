@@ -60,13 +60,22 @@
 
 <div align="center">
 
-<a href="https://github.com/makers-hackathon/hisba.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-Albayati&repo=hisba&theme=midnight-purple&hide_border=true" />
-</a>
-
-<a href="https://github.com/Abdullah-Albayati/another-cool-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-Albayati&repo=another-cool-project&theme=midnight-purple&hide_border=true" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="45%">
+      <a href="https://github.com/Abdullah-Albayati/hisba">
+        <img src="https://img.shields.io/badge/Hisba-Backend%20Architecture%20%7C%20TypeScript-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <p><i>Minimal and scalable backend built with TypeScript and Appwrite.</i></p>
+    </td>
+    <td align="center" width="45%">
+      <a href="https://github.com/Abdullah-Albayati/another-project">
+        <img src="https://img.shields.io/badge/ProjectName-C%23%20%7C%20Unity-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <p><i>Experimental Unity project exploring clean architecture principles.</i></p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
