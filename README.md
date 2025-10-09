@@ -1,4 +1,3 @@
-<img width="1147" height="835" alt="{2FBF3E6A-6F09-460E-90D6-39D071902E35}" /><h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A189A,100:9D4EDD&height=220&text=Abdullah%20Al-Bayati&fontSize=55&fontAlignY=40&desc=Backend%20Developer%20%7C%20Coffee%20Maniac%20☕&descAlignY=65&descSize=22&animation=fadeIn" />
 </h1>
 
