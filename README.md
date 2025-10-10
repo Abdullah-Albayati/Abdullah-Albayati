@@ -3,7 +3,7 @@
 
 <p align="center">
   <i>Backend Developer specialized in .NET with frontend experience in Flutter/Dart.</i><br/>
-  <i>Occasionally builds things in Unity — because good architecture applies everywhere.</i>
+  <i>Occasionally builds games and tools in Unity.</i>
 </p>
 
 <img align="right" src="https://avatars.githubusercontent.com/Abdullah-Albayati" style="border-radius: 50%" width="190">
