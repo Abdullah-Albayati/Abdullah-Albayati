@@ -32,15 +32,15 @@
 
 <div align="center">
 
-![.NET](https://img.shields.io/badge/.NET-4C138A?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF CORE](https://img.shields.io/badge/EF%20Core-5521A5?style=for-the-badge&logo=dot-net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-5E2BBF?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-8A2BE2?style=for-the-badge&logo=C++&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-6F3DD2?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-7847DC?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-824FE5?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-8C58ED?style=for-the-badge&logo=flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-955FF4?style=for-the-badge&logo=unity&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-3A0A70?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF CORE](https://img.shields.io/badge/EF%20Core-4A1285?style=for-the-badge&logo=dot-net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-5A19A0?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-6920B5?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-7827C8?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8730D9?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-9638E8?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-A541F7?style=for-the-badge&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-B14DFF?style=for-the-badge&logo=unity&logoColor=white)
 
 </div>
 
