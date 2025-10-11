@@ -35,6 +35,7 @@
 ![.NET](https://img.shields.io/badge/.NET-4C138A?style=for-the-badge&logo=dotnet&logoColor=white)
 ![EF CORE](https://img.shields.io/badge/EF%20Core-5521A5?style=for-the-badge&logo=dot-net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-5E2BBF?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8A2BE2?style=for-the-badge&logo=C++&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6F3DD2?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-7847DC?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-824FE5?style=for-the-badge&logo=python&logoColor=white)
