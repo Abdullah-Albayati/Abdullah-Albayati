@@ -50,7 +50,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abdullah-Albayati)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Albayati&layout=compact&theme=midnight-purple&hide_border=true)
 
 </div>
