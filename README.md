@@ -50,7 +50,7 @@
 
 <div align="center">
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdullah-Albayati&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abdullah-Albayati&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 </div>
 
