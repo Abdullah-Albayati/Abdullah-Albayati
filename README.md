@@ -56,22 +56,7 @@
 
 ---
 
-### <span style="color:#9D4EDD">Projects</span>
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="45%">
-      <a href="https://github.com/makers-hackathon/hisba.git">
-        <img src="https://img.shields.io/badge/Hisba-Backend%20%7C%20TypeScript-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <p><i>Minimal and scalable backend built with TypeScript and Prisma</i></p>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 
 <h3 align="center">
