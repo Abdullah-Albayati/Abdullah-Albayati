@@ -51,7 +51,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Albayati&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Albayati&layout=compact&theme=midnight-purple&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
