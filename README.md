@@ -28,8 +28,8 @@
 - 💻 **Stack:** Primarily working with **.NET**, **TypeScript**, and **Node.js**, with side projects in **Python**, **Flutter**, and **Unity**.  
 - 🧩 **Interests:** Developer ecosystems, API design, and problem-solving for the dev community.  
 - ⚡ **Fuel:** Caffeine ***EXTREMIST***. 
-- 🌱 **Currently learning:** [Insert a technology or concept you are exploring, e.g., System Design, Cloud Architecture]
-- 💬 **Ask me about:** [Insert topics you like discussing, e.g., Clean Architecture in .NET, optimizing Unity games]
+- 🌱 **Currently learning:** AI Engineering :3
+- 💬 **Ask me about:** Anything!
 
 ---
 
