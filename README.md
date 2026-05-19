@@ -11,8 +11,8 @@
 ```
 > whoami
   Abdullah Al-Bayati
-  Backend Developer · Iraq 🇮🇶
-  Powered by .NET and excessive caffeine
+  Backend Developer · 🇮🇶
+  Powered by excessive caffeine
 
 > current_status
   ⚙️  Software Engineering.
@@ -31,11 +31,11 @@
 <summary><b>🧬 &nbsp;About Me &nbsp;—&nbsp; click to expand</b></summary>
 <br/>
 
-I'm a backend developer who cares deeply about **structure, clarity, and writing code that I will barely understand the next day**.
+I'm a backend developer who cares deeply about **structure, clarity, and writing code that I will try my best to understand the next day**.
 
 My weapon is **.NET** — ASP.NET Core, and EF Core. 
 I also cross into **TypeScript / Node.js** sometimes, and I've shipped mobile apps in **Flutter**. 
-I also sometimes disappear into **Unity** to make something pointless but fun.
+I sometimes disappear into **Unity** to make something pointless but fun.
 
 The coffee consumption is *non-negotiable.* 
 **We don't talk about it!!**
