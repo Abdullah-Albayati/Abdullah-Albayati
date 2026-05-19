@@ -15,8 +15,7 @@
   Powered by .NET and excessive caffeine
 
 > current_status
-  ⚙️  Building scalable APIs
-  🤖  Learning AI Engineering
+  ⚙️  Software Engineering.
   ☕  On cup #4. It's fine.
 ```
 
