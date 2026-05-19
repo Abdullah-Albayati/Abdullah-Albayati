@@ -1,60 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0A70,50:7B2FBE,100:C77DFF&height=240&text=Abdullah%20Al-Bayati&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=Backend%20Developer%20%E2%80%A2%20.NET%20%E2%80%A2%20Coffee%20Extremist%20%E2%98%95&descAlignY=65&descSize=20&animation=fadeIn" width="100%" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0533,50:6b21a8,100:a855f7&height=200&text=Abdullah%20Al-Bayati&fontSize=52&fontColor=ffffff&fontAlignY=50&desc=Backend%20Developer%20%7C%20.NET%20%7C%20Coffee%20Extremist%20%E2%98%95&descSize=18&descAlignY=72&animation=blinking" width="100%" alt="Banner"/>
 
 </div>
 
-<img align="right" src="https://avatars.githubusercontent.com/Abdullah-Albayati" width="160" style="border-radius:50%; margin: 10px 0 10px 20px;" alt="Abdullah" />
+<br/>
 
-## Hey, I'm Abdullah 👋
+<img align="right" src="https://avatars.githubusercontent.com/Abdullah-Albayati" width="150" style="border-radius:50%;" alt="Abdullah"/>
 
-Backend developer by trade, problem-solver by instinct. I build systems that are **clean, scalable, and built to last** — primarily in **.NET**, with roots in TypeScript and Node.js. When I'm not designing APIs, I'm poking around in game dev with Unity or picking up something new in AI engineering.
+```
+> whoami
+  Abdullah Al-Bayati
+  Backend Developer · Iraq 🇮🇶
+  Powered by .NET and excessive caffeine
 
-Currently fueled by an *unhealthy* amount of coffee. No regrets.
+> current_status
+  ⚙️  Building scalable APIs
+  🤖  Learning AI Engineering
+  ☕  On cup #4. It's fine.
+```
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%235A189A.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-bayati-65533a28b/)
-[![Instagram](https://img.shields.io/badge/Instagram-%239D4EDD.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/8y.yi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://www.linkedin.com/in/abdullah-al-bayati-65533a28b/)
+[![Instagram](https://img.shields.io/badge/Instagram-2d0a5e?style=for-the-badge&logo=instagram&logoColor=a855f7)](https://www.instagram.com/8y.yi)
+![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-Albayati&style=for-the-badge&color=6b21a8&labelColor=1a0533)
 
 ---
 
-## 🧠 What I Do
+<details>
+<summary><b>🧬 &nbsp;About Me &nbsp;—&nbsp; click to expand</b></summary>
+<br/>
 
-| Area | Details |
-|------|---------|
-| 🏗️ **Backend** | Designing maintainable, well-structured APIs and services |
-| 📱 **Mobile** | Cross-platform apps with Flutter & Dart |
-| 🎮 **Game Dev** | Casual games and tools in Unity (C++) |
-| 🤖 **Currently** | Exploring AI Engineering — LLMs, agents, pipelines |
-| ☕ **Always** | On my third cup |
+I'm a backend developer who cares deeply about **structure, clarity, and writing code that doesn't haunt whoever reads it next** — including future me.
+
+My main arena is **.NET** — ASP.NET Core, EF Core, clean architecture, the works. I also cross into **TypeScript / Node.js** when the situation calls for it, and I've shipped mobile apps in **Flutter**. On weekends I sometimes disappear into **Unity** to make something pointless but fun.
+
+I'm currently deep in **AI Engineering** — agents, RAG, LLM pipelines. It's wild and I'm obsessed.
+
+The coffee consumption is non-negotiable. We don't talk about it.
+
+</details>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Stack
 
-**Backend & Core**
+<table>
+<tr>
+<td valign="top" width="33%">
 
-![.NET](https://img.shields.io/badge/.NET-3A0A70?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-5A19A0?style=for-the-badge&logo=c-sharp&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF%20Core-4A1285?style=for-the-badge&logo=dot-net&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-7827C8?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-8730D9?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-9638E8?style=for-the-badge&logo=python&logoColor=white)
+**Backend**
 
-**Frontend, Mobile & Game Dev**
+![.NET](https://img.shields.io/badge/.NET-1a0533?style=flat-square&logo=dotnet&logoColor=a855f7)
+![C#](https://img.shields.io/badge/C%23-1a0533?style=flat-square&logo=c-sharp&logoColor=a855f7)
+![EF Core](https://img.shields.io/badge/EF%20Core-1a0533?style=flat-square&logo=dot-net&logoColor=a855f7)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=flat-square&logo=typescript&logoColor=a855f7)
+![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=flat-square&logo=nodedotjs&logoColor=a855f7)
+![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=a855f7)
 
-![Flutter](https://img.shields.io/badge/Flutter-A541F7?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-B04CF0?style=for-the-badge&logo=dart&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-B14DFF?style=for-the-badge&logo=unity&logoColor=white)
-![C++](https://img.shields.io/badge/C++-6920B5?style=for-the-badge&logo=cplusplus&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
-**Databases & Tools**
+**Mobile & Game**
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-4B0EA8?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6A22C2?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-7D2FD9?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-8E3DE8?style=for-the-badge&logo=docker&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-1a0533?style=flat-square&logo=flutter&logoColor=a855f7)
+![Dart](https://img.shields.io/badge/Dart-1a0533?style=flat-square&logo=dart&logoColor=a855f7)
+![Unity](https://img.shields.io/badge/Unity-1a0533?style=flat-square&logo=unity&logoColor=a855f7)
+![C++](https://img.shields.io/badge/C++-1a0533?style=flat-square&logo=cplusplus&logoColor=a855f7)
+
+</td>
+<td valign="top" width="33%">
+
+**Data & Tools**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-1a0533?style=flat-square&logo=microsoftsqlserver&logoColor=a855f7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=flat-square&logo=postgresql&logoColor=a855f7)
+![Docker](https://img.shields.io/badge/Docker-1a0533?style=flat-square&logo=docker&logoColor=a855f7)
+![Git](https://img.shields.io/badge/Git-1a0533?style=flat-square&logo=git&logoColor=a855f7)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -62,39 +89,44 @@ Currently fueled by an *unhealthy* amount of coffee. No regrets.
 
 <div align="center">
 
-<img src="https://github-readme-stats-zeta-plum-94.vercel.app/api?username=Abdullah-Albayati&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="Stats" />
-<img src="https://github-readme-stats-zeta-plum-94.vercel.app/api/top-langs/?username=Abdullah-Albayati&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats-zeta-plum-94.vercel.app/api?username=Abdullah-Albayati&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d0120" height="170" alt="Stats"/>
+<img src="https://github-readme-stats-zeta-plum-94.vercel.app/api/top-langs/?username=Abdullah-Albayati&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&bg_color=0d0120" height="170" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Abdullah-Albayati&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Abdullah-Albayati&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d0120" height="170" alt="Streak"/>
 
 </div>
 
 ---
 
-## 🌱 On My Radar
+## 🔭 What I'm Into Right Now
 
-Things I'm actively learning or exploring:
-
-- 🤖 AI Engineering — agents, RAG pipelines, LLM tooling
-- ☁️ Cloud-native patterns — distributed systems, event-driven architecture
-- 🔐 Security-first API design
+```python
+current_focus = {
+    "main":     "AI Engineering — agents, RAG, LLM tooling",
+    "reading":  "Distributed systems & event-driven architecture",
+    "building": "Something I'll probably refactor three times",
+    "drinking": "Coffee. Always coffee.",
+}
+```
 
 ---
 
-## 💬 Ask Me About
+## 💬 Open to Talking About
 
-Anything backend, API design, .NET patterns, getting into game dev, or which coffee ratio actually hits. I don't bite.
+Anything backend. API design, .NET architecture, breaking into game dev, AI tooling, or just why your coffee order is wrong. Hit me up.
 
 ---
 
 <div align="center">
 
-*"Build to last, not to fade."*
+<sub><i>"Build to last, not to fade."</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,50:7B2FBE,100:3A0A70&height=120&section=footer" width="100%" alt="Footer" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:a855f7,50:6b21a8,100:1a0533&height=100&section=footer&reversal=true" width="100%" alt="Footer"/>
 
 </div>
