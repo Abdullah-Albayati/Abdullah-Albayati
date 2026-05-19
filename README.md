@@ -32,13 +32,14 @@
 <summary><b>🧬 &nbsp;About Me &nbsp;—&nbsp; click to expand</b></summary>
 <br/>
 
-I'm a backend developer who cares deeply about **structure, clarity, and writing code that doesn't haunt whoever reads it next** — including future me.
+I'm a backend developer who cares deeply about **structure, clarity, and writing code that I will barely understand the next day**.
 
-My main arena is **.NET** — ASP.NET Core, EF Core, clean architecture, the works. I also cross into **TypeScript / Node.js** when the situation calls for it, and I've shipped mobile apps in **Flutter**. On weekends I sometimes disappear into **Unity** to make something pointless but fun.
+My weapon is **.NET** — ASP.NET Core, and EF Core. 
+I also cross into **TypeScript / Node.js** sometimes, and I've shipped mobile apps in **Flutter**. 
+I also sometimes disappear into **Unity** to make something pointless but fun.
 
-I'm currently deep in **AI Engineering** — agents, RAG, LLM pipelines. It's wild and I'm obsessed.
-
-The coffee consumption is non-negotiable. We don't talk about it.
+The coffee consumption is *non-negotiable.* 
+**We don't talk about it!!**
 
 </details>
 
@@ -62,7 +63,7 @@ The coffee consumption is non-negotiable. We don't talk about it.
 </td>
 <td valign="top" width="33%">
 
-**Mobile & Game**
+**Mobile & Games (Sometimes)**
 
 ![Flutter](https://img.shields.io/badge/Flutter-1a0533?style=flat-square&logo=flutter&logoColor=a855f7)
 ![Dart](https://img.shields.io/badge/Dart-1a0533?style=flat-square&logo=dart&logoColor=a855f7)
@@ -102,22 +103,10 @@ The coffee consumption is non-negotiable. We don't talk about it.
 
 ---
 
-## 🔭 What I'm Into Right Now
-
-```python
-current_focus = {
-    "main":     "AI Engineering — agents, RAG, LLM tooling",
-    "reading":  "Distributed systems & event-driven architecture",
-    "building": "Something I'll probably refactor three times",
-    "drinking": "Coffee. Always coffee.",
-}
-```
-
----
-
 ## 💬 Open to Talking About
 
-Anything backend. API design, .NET architecture, breaking into game dev, AI tooling, or just why your coffee order is wrong. Hit me up.
+Anything backend. API design, .NET, game dev, AI tooling, or just why coffee is overpriced. 
+Hit me up!
 
 ---
 
