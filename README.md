@@ -62,10 +62,14 @@ Currently fueled by an *unhealthy* amount of coffee. No regrets.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Albayati&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Albayati&layout=compact&theme=midnight-purple&hide_border=true" width="42%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Albayati&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Albayati&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Albayati&theme=midnight-purple&hide_border=true" width="55%" alt="Streak" />
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abdullah-Albayati&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170" alt="Streak" />
 
 </div>
 
