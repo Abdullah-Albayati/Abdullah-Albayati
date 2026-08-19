@@ -1,120 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a0533,50:6b21a8,100:a855f7&height=200&text=Abdullah%20Al-Bayati&fontSize=52&fontColor=ffffff&fontAlignY=50&desc=Backend%20Developer%20%7C%20.NET%20%7C%20Coffee%20Extremist%20%E2%98%95&descSize=18&descAlignY=72&animation=twinkling" width="100%" alt="Banner"/>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0120,35:1a0533,70:6b21a8,100:a855f7&height=240&section=header&text=Abdullah%20Al-Bayati&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20.NET%20%E2%80%A2%20Iraq%20%F0%9F%87%AE%F0%9F%87%B6&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Abdullah Al-Bayati"/>
 
-<br/>
 
-<img align="right" src="https://avatars.githubusercontent.com/Abdullah-Albayati" width="150" style="border-radius:50%;" alt="Abdullah"/>
+### `I build the parts users never see — but everything depends on.`
 
-```
-> whoami
-  Abdullah Al-Bayati
-  Backend Developer · 🇮🇶
-  Powered by excessive caffeine
 
-> current_status
-  ⚙️  Software Engineering.
-  ☕  On cup #4. It's fine.
-```
+Backend development · APIs · Databases · Systems · Occasionally questionable amounts of coffee.
+
 
 <br/>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://www.linkedin.com/in/abdullah-al-bayati-65533a28b/)
-[![Instagram](https://img.shields.io/badge/Instagram-2d0a5e?style=for-the-badge&logo=instagram&logoColor=a855f7)](https://www.instagram.com/8y.yi)
-![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-Albayati&style=for-the-badge&color=6b21a8&labelColor=1a0533)
+[![Instagram](https://img.shields.io/badge/Instagram-1a0533?style=for-the-badge&logo=instagram&logoColor=a855f7)](https://www.instagram.com/8y.yi)
+![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-Albayati&style=for-the-badge&color=6b21a8&labelColor=1a0533&label=PROFILE+VIEWS)
+
+
+</div>
+
 
 ---
 
-<details>
-<summary><b>🧬 &nbsp;About Me &nbsp;—&nbsp; click to expand</b></summary>
+
+<img align="right" src="https://avatars.githubusercontent.com/Abdullah-Albayati" width="165" alt="Abdullah Al-Bayati"/>
+
+
+## `$ whoami`
+
+
+```text
+Name        Abdullah Al-Bayati
+Role        Backend Developer
+Location    Iraq 🇮🇶
+Main        .NET / ASP.NET Core
+Status      Software Engineering
+Runtime     Coffee-powered
+
+I care about structure, clarity, and maintainable software.
+
+Most of my time goes into backend systems using C#, .NET, ASP.NET Core, EF Core, PostgreSQL, and Docker. I occasionally cross the border into TypeScript / Node.js, have shipped mobile applications with Flutter, and sometimes open Unity to build something completely unnecessary.
+
+The coffee consumption remains non-negotiable.
+
+<br clear="both"/>
+01. // Tech Stack
+<div align="center">
+Backend
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,ts,python&theme=dark" alt="Backend technologies"/> <br/>
+
+ASP.NET Core · Entity Framework Core · REST APIs · C# · TypeScript · Node.js · Python
+
 <br/>
+Data & Infrastructure
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,linux&theme=dark" alt="Data and infrastructure technologies"/> <br/>
 
-I'm a backend developer who cares deeply about **structure, clarity, and writing code that I will try my best to understand the next day**.
+PostgreSQL · MongoDB · Docker · Git · GitHub · Linux
 
-My weapon is **.NET** — ASP.NET Core, and EF Core. 
-I also cross into **TypeScript / Node.js** sometimes, and I've shipped mobile apps in **Flutter**. 
-I sometimes disappear into **Unity** to make something pointless but fun.
+<br/>
+Mobile & Game Development
+<img src="https://skillicons.dev/icons?i=flutter,dart,unity,cpp&theme=dark" alt="Mobile and game development technologies"/> <br/>
 
-The coffee consumption is *non-negotiable.* 
-**We don't talk about it!!**
-
-</details>
-
----
-
-## ⚙️ Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Backend**
-
-![.NET](https://img.shields.io/badge/.NET-1a0533?style=flat-square&logo=dotnet&logoColor=a855f7)
-![C#](https://img.shields.io/badge/C%23-1a0533?style=flat-square&logo=c-sharp&logoColor=a855f7)
-![EF Core](https://img.shields.io/badge/EF%20Core-1a0533?style=flat-square&logo=dot-net&logoColor=a855f7)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=flat-square&logo=typescript&logoColor=a855f7)
-![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=flat-square&logo=nodedotjs&logoColor=a855f7)
-![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=a855f7)
-
-</td>
-<td valign="top" width="33%">
-
-**Mobile & Games (Sometimes)**
-
-![Flutter](https://img.shields.io/badge/Flutter-1a0533?style=flat-square&logo=flutter&logoColor=a855f7)
-![Dart](https://img.shields.io/badge/Dart-1a0533?style=flat-square&logo=dart&logoColor=a855f7)
-![Unity](https://img.shields.io/badge/Unity-1a0533?style=flat-square&logo=unity&logoColor=a855f7)
-![C++](https://img.shields.io/badge/C++-1a0533?style=flat-square&logo=cplusplus&logoColor=a855f7)
-
-</td>
-<td valign="top" width="33%">
-
-**Data & Tools**
-
-![MongoDb](https://img.shields.io/badge/Mongo%20Db-1a0533?style=flat-square&logo=microsoftsqlserver&logoColor=a855f7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=flat-square&logo=postgresql&logoColor=a855f7)
-![Docker](https://img.shields.io/badge/Docker-1a0533?style=flat-square&logo=docker&logoColor=a855f7)
-![Git](https://img.shields.io/badge/Git-1a0533?style=flat-square&logo=git&logoColor=a855f7)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-zeta-plum-94.vercel.app/api?username=Abdullah-Albayati&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d0120" height="170" alt="Stats"/>
-<img src="https://github-readme-stats-zeta-plum-94.vercel.app/api/top-langs/?username=Abdullah-Albayati&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&bg_color=0d0120" height="170" alt="Top Languages"/>
+Flutter · Dart · Unity · C++
 
 </div>
+02. // Developer.exe
+public sealed class Abdullah
+{
+    public string Role => "Backend Developer";
 
-<div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Abdullah-Albayati&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d0120" height="170" alt="Streak"/>
+    public string[] MainStack =>
+    [
+        "C#",
+        ".NET",
+        "ASP.NET Core",
+        "Entity Framework Core",
+        "PostgreSQL"
+    ];
 
-</div>
 
----
+    public string[] SideQuests =>
+    [
+        "Flutter",
+        "TypeScript",
+        "Node.js",
+        "Unity"
+    ];
 
-## 💬 Open to Talking About
 
-Anything backend. API design, .NET, game dev, AI tooling, or just why coffee is overpriced. 
-Hit me up!
+    public bool LikesCleanArchitecture => true;
 
----
 
-<div align="center">
-
-<sub><i>"Build to last, not to fade."</i></sub>
+    public int CoffeeLevel => int.MaxValue;
+}
+03. // GitHub Telemetry
+<div align="center"> <a href="https://github.com/Abdullah-Albayati"> <img height="175" src="https://github-readme-stats-zeta-plum-94.vercel.app/api?username=Abdullah-Albayati&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d0120" alt="Abdullah's GitHub Stats"/> </a> <a href="https://github.com/Abdullah-Albayati"> <img height="175" src="https://github-readme-stats-zeta-plum-94.vercel.app/api/top-langs/?username=Abdullah-Albayati&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&bg_color=0d0120" alt="Abdullah's Top Languages"/> </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:a855f7,50:6b21a8,100:1a0533&height=100&section=footer&reversal=true" width="100%" alt="Footer"/>
+<img width="70%" src="https://github-readme-streak-stats-eight.vercel.app?user=Abdullah-Albayati&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D0120" alt="GitHub Streak"/> </div>
+04. // Talk To Me About
+> .NET & ASP.NET Core
+> Backend architecture
+> API design
+> PostgreSQL & databases
+> Docker & deployment
+> AI-assisted development
+> Flutter
+> Game development
+> Why coffee costs this much
 
-</div>
+If any of those sound interesting, hit me up.
+
+<div align="center"> <br/>
+while (alive) { build(); learn(); drinkCoffee(); }
+<br/>
+
+<br/><br/>
+
+<sub>
+
+"Build to last, not to fade."
+
+</sub> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,35:6b21a8,70:1a0533,100:0d0120&height=120&section=footer" width="100%" alt="Footer"/> </div> ```
