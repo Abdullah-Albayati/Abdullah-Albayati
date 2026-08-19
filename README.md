@@ -8,8 +8,7 @@ Backend development · APIs · Databases · Systems · Occasionally questionable
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://www.linkedin.com/in/abdullah-al-bayati-65533a28b/)
-[![Instagram](https://img.shields.io/badge/Instagram-1a0533?style=for-the-badge&logo=instagram&logoColor=a855f7)](https://www.instagram.com/8y.yi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0533?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjYTU1NWY3IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIwLjQ1IDMuNTVIMy41NUEyLjU1IDIuNTUgMCAwIDAgMSA2LjF2MTEuOGEyLjU1IDIuNTUgMCAwIDAgMi41NSAyLjU1aDE2LjlhMi41NSAyLjU1IDAgMCAwIDIuNTUtMi41NVY2LjFhMi41NSAyLjU1IDAgMCAwLTIuNTUtMi41NXpNNy40IDE4LjFINC41VjkuMWgyLjl2OXptLTEuNDUtMTAuMmExLjY4IDEuNjggMCAxIDEgMC0zLjM2IDEuNjggMS42OCAwIDAgMSAwIDMuMzZ6TTE5LjUgMTguMWgtMi45di00LjM3YzAtMS4wNC0uMDItMi4zOC0xLjQ1LTIuMzgtMS40NSAwLTEuNjcgMS4xMy0xLjY3IDIuM3Y0LjQ1aC0yLjlWOS4xaDIuNzh2MS4yM2guMDRhMy4wNSAzLjA1IDAgMCAxIDIuNzUtMS41MWMyLjk0IDAgMy40OCAxLjk0IDMuNDggNC40N3Y0LjgxeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/abdullah-al-bayati-65533a28b/)[![Instagram](https://img.shields.io/badge/Instagram-1a0533?style=for-the-badge&logo=instagram&logoColor=a855f7)](https://www.instagram.com/8y.yi)
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-Albayati&style=for-the-badge&color=6b21a8&labelColor=1a0533&label=PROFILE+VIEWS)
 
 </div>
