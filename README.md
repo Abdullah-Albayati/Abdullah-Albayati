@@ -74,7 +74,7 @@ The coffee consumption is *non-negotiable.*
 
 **Data & Tools**
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-1a0533?style=flat-square&logo=microsoftsqlserver&logoColor=a855f7)
+![MongoDb](https://img.shields.io/badge/Mongo%20Db-1a0533?style=flat-square&logo=microsoftsqlserver&logoColor=a855f7)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=flat-square&logo=postgresql&logoColor=a855f7)
 ![Docker](https://img.shields.io/badge/Docker-1a0533?style=flat-square&logo=docker&logoColor=a855f7)
 ![Git](https://img.shields.io/badge/Git-1a0533?style=flat-square&logo=git&logoColor=a855f7)
