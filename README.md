@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0120,35:1a0533,70:6b21a8,100:a855f7&height=240&section=header&text=Abdullah%20Al-Bayati&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20.NET%20%E2%80%A2%20Iraq%20%F0%9F%87%AE%F0%9F%87%B6&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Abdullah Al-Bayati"/>
 
-### `I build the parts users never see — but everything depends on.`
+### `I build the parts you never get to see`
 
 Backend development · APIs · Databases · Systems · Occasionally questionable amounts of coffee.
 
